@@ -1,4 +1,4 @@
-# NL2SQL Explorer
+# Text To SQL Explorer
 
 A full-stack application that lets users upload SQL schema or dump files, import them into PostgreSQL, inspect extracted schema metadata, ask questions in natural language, generate SQL using a Hugging Face model, validate it for safety, execute read-only queries, and inspect query history.
 

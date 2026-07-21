@@ -3,7 +3,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
-    app_name: str = "NL2SQL Explorer"
+    app_name: str = "Text To SQL Explorer"
     secret_key: str = "change-me"
     access_token_expire_minutes: int = 1440
 
